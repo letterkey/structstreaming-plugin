@@ -1,0 +1,1 @@
+org.apache.spark.structstreaming.demo.sink.MySQLStreamSinkProvider
